@@ -1,0 +1,26 @@
+{
+    "Score": {
+        "Toyota": 60,
+        "Nakajima": 70,
+        "Wagatsuma": 80,
+        "Shiraishi": 90,
+        "Sudo":90,
+	"Sato":100
+    },
+    "floor": {
+        "Toyota": 6,
+        "Nakajima": 6,
+        "Wagatsuma": 5,
+        "Shiraishi":4,
+        "Sudo":4,
+	"Sato":5
+    },
+    "field": {
+        "Toyota": "data science",
+        "Nakajima": "multi-agent",
+        "Wagatsuma": "neural network",
+        "Shiraishi": "computer vision",
+        "Sudo":"image processing",
+	"Sato":"network"
+    }
+}
